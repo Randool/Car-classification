@@ -8,6 +8,8 @@
 *.ipynb_checkpoints/*
 */__pycache__/*
 
+*.log
+
 # Compiled Object files
 *.slo
 *.lo
